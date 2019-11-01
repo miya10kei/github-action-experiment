@@ -1,0 +1,5 @@
+profile: service
+defaultPackage: github.action.experiment
+---
+testFramework: junit
+sourceLanguage: java
